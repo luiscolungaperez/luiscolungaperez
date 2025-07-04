@@ -26,17 +26,5 @@
   <img src="https://img.icons8.com/color/96/000000/javascript.png" width="80px" />
   <img src="https://img.icons8.com/color/96/000000/react-native.png" width="80px" />
   <img src="https://img.icons8.com/color/96/000000/typescript.png" width="80px" />
-  <img src="https://img.icons8.com/color/96/000000/html-5.png" width="80px" />
-  <img src="https://img.icons8.com/color/96/000000/css3.png" width="80px" />
-  <img src="https://img.icons8.com/color/96/000000/sass.png" width="80px" />
-  <img src="https://img.icons8.com/color/96/000000/graphql.png" width="80px" />
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="80px" />
-</p>
-
-
-<h3 align="center">Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luiscolungaperez&hide=stars&theme=dark&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscolungaperez&layout=compact&theme=dark" />
 </p>
 
